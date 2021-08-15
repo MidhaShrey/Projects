@@ -1,0 +1,92 @@
+.box
+{
+    background-color:#ffd8bf;
+    border-radius: 10px;
+    padding: 5px;
+    border: 2px solid #a87961;
+}
+/* #square
+{
+	height: 50px;
+} */
+h1
+{
+    text-align: center;
+}
+.keys
+{
+    color: white;
+    border-radius: 10px;
+}
+#delete
+{
+    font-size: 0.7em;
+	width: 70px;
+	justify-content: flex-end;
+	align-items: flex-end;
+}
+button
+{
+    background-color: black;
+    color:white;
+    border-radius: 5px;
+    padding: 15px;
+}
+#sensor
+{
+    height: 20px;
+    width:23px;
+    position: absolute;
+    right: 20px;
+}
+.top-arrow
+{
+    margin-left: 32px;
+    height: 18px;
+    width: 50px;
+}
+.space
+{
+    height: 40px;
+    width: 260px;
+}
+.base
+{
+    background-color: #ffd8bf;
+    margin: 150 px;
+    border: 150px #ffd8bf;
+    border-radius: 10px;
+    padding: 50px;
+    position: absolute;
+    font-family: sans-serif;
+}
+body
+{
+    padding-top: 125px;
+    padding-left: 425px;
+}
+#arrows
+{
+    height: 12px;
+    width: 15px;
+}
+c
+#double
+{
+    height: 20px;
+}
+.enter
+{
+    font-size: 0.7em;
+	width: 70px;
+	justify-content: flex-end;
+	align-items: flex-end;
+}
+fieldset
+{
+    border-radius: 10px;
+}
+.f-key
+{
+    position: absolute;
+}
